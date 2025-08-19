@@ -3,24 +3,24 @@ This simple and customizable script enables the use of the LB-Phone SendMail exp
 
 # Dependencies
   lb-phone
-  qb-core 
-  qb-management
+ <br> qb-core 
+ <br> qb-management
 
 # Installation
 
 Step 1: Download the resource from the releases page.
-Step 2: Extract the files and place them in your server resources directory
-Step 3: Add the following code to your qb-management\sv_main.lua:
+<br>Step 2: Extract the files and place them in your server resources directory
+<br>Step 3: Add the following code to your qb-management\sv_main.lua:
 
-  Find the ```qb-bossmenu:server:GradeUpdate``` event around line 76
-    Add this block of code to the ```if Employee.PlayerData.source then``` statement
-    ```TriggerEvent('doge_jobmail:server:gradeUpdateMail', src, Player, Employee, type, initialPosition, data)```
+  <br>Find the ```qb-bossmenu:server:GradeUpdate``` event around line 76
+    <br>Add this block of code to the ```if Employee.PlayerData.source then``` statement
+   <br> ```TriggerEvent('doge_jobmail:server:gradeUpdateMail', src, Player, Employee, type, initialPosition, data)```
 
-  Find the ```qb-bossmenu:server:FireEmployee``` event around line 132
-    Add this block of code to the ```if Employee.PlayerData.source then``` statement
-    ```TriggerEvent('job-email:server:fireMail', src, Player, Employee, type, target)```
+<br>  Find the ```qb-bossmenu:server:FireEmployee``` event around line 132
+   <br> Add this block of code to the ```if Employee.PlayerData.source then``` statement
+   <br> ```TriggerEvent('job-email:server:fireMail', src, Player, Employee, type, target)```
 
-Step 4: ensure doge_jobmail at the end of your server.cfg after lb-phone and your qb
+<br> Step 4: ensure doge_jobmail at the end of your server.cfg after lb-phone and your qb
 
 # Preview
   Hiring Email:
