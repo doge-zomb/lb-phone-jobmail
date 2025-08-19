@@ -18,7 +18,7 @@ Step 1: Download the resource from the releases page.
 
 <br>  Find the ```qb-bossmenu:server:FireEmployee``` event around line 132
    <br> Add this block of code to the ```if Employee.PlayerData.source then``` statement
-   <br> ```TriggerEvent('job-email:server:fireMail', src, Player, Employee, type, target)```
+   <br> ```TriggerEvent('doge_jobmail:server:fireMail', src, Player, Employee, type, target)```
 
 <br> Step 4: ensure doge_jobmail at the end of your server.cfg after lb-phone and your qb
 
