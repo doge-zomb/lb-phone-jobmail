@@ -25,25 +25,21 @@ Step 1: Download the resource from the releases page.
 # Preview
   Hiring Email:
   
-  <img width="333" height="660" alt="image" src="https://github.com/user-attachments/assets/8f94bdb1-3208-41e0-b79a-5cb83672f235" />
+**TBA**
 
   Promotion Email:
 
-  <img width="295" height="660" alt="image" src="https://github.com/user-attachments/assets/fc5767c8-7479-4a69-86de-1157bd7cbabd" />
+**TBA**
 
   Demotion Email:
 
-  <img width="332" height="655" alt="image" src="https://github.com/user-attachments/assets/01fe3181-df10-4f1d-8701-f5b0e4528f73" />
+**TBA**
 
   Termination Email:
 
-  <img width="321" height="670" alt="image" src="https://github.com/user-attachments/assets/87d52322-202d-4591-b312-9670fc21698f" />
+**TBA**
 
-  Extra Image to show that the email subject and other factors change based on the hiring persons job and rank
 
-  <img width="342" height="657" alt="image" src="https://github.com/user-attachments/assets/47facbc5-f3a0-49a0-931e-f5f834ceb746" />
-
-  <img width="338" height="644" alt="image" src="https://github.com/user-attachments/assets/f44f4875-a944-4b3f-83c0-1b5d525376ba" />
 
   # Customization:
 
